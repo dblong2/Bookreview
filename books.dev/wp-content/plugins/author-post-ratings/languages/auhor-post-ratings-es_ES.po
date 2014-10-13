@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Author Post Ratings 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-03 15:41-0500\n"
+"PO-Revision-Date: 2013-11-29 10:10+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: author-post-ratings.php:38
+msgid "Rating:"
+msgstr "Rango:"
+
+#: author-post-ratings.php:110
+#, php-format
+msgid "%1$d out of %2$d stars"
+msgstr "%1$d de %2$d estrellas"
+
+#: author-post-ratings.php:183
+msgid "Post Rating"
+msgstr "Rango de Post"
+
+#: author-post-ratings.php:202
+msgid "Choose a rating for this post:"
+msgstr "Escoger un rango para este post:"
+
+#: author-post-ratings.php:204
+msgid "Unrated"
+msgstr "Sin rango"
+
+#: author-post-ratings.php:206
+#, php-format
+msgid "%1s Star"
+msgstr "%1s Estrella"
+
+#: author-post-ratings.php:241
+msgid "Position"
+msgstr "Posición"
+
+#: author-post-ratings.php:242
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: author-post-ratings.php:243
+msgid "Post Types"
+msgstr "Tipos de Post"
+
+#: author-post-ratings.php:245
+msgid "Rating position on post"
+msgstr "Posición de Rango en los posts"
+
+#: author-post-ratings.php:247
+msgid "Label text"
+msgstr "Texto de etiqueta"
+
+#: author-post-ratings.php:248
+msgid "Post types enabled"
+msgstr "Tipos de Post habilitados"
+
+#: author-post-ratings.php:257
+msgid "Author Post Ratings Settings"
+msgstr "Ajustes de Author Post Ratings"
+
+#: author-post-ratings.php:257
+msgid "Author Post Ratings"
+msgstr "Author Post Ratings"
+
+#: author-post-ratings.php:270
+#, php-format
+msgid ""
+"<em>Author Post Ratings</em> is a free plugin developed by <a href=\"%1$s"
+"\">Philip Newcomer</a>. If you find it useful, please consider <a href=\"%2$s"
+"\">donating</a> so that I can dedicate a larger portion of my time to "
+"writing more plugins and providing support to users. All donations, no "
+"matter how large or small, are greatly appreciated!"
+msgstr ""
+"<em>Author Post Ratings</em>  es un plugin gratis desarrollado por  <a href="
+"\"%1$s\">Philip Newcomer</a>. Si usted lo encuentra útil, por favor "
+"considere <a href=\"%2$s\">donar</a>por lo que puedo dedicar una porción "
+"grande de mi tiempo en escribir más plugins y proveyendo soporte a los "
+"usuarios. Todas las donaciones, no importa qué grande o pequeña, ¡se "
+"apreciada grandemente!"
+
+#: author-post-ratings.php:281
+#, php-format
+msgid ""
+"The post rating will be automatically added to your post if the setting is "
+"turned on above. To manually display the post rating anywhere in your post, "
+"use the shortcode %1$s. For more information, see %2$s."
+msgstr ""
+"El rango de post será adicionado automáticamente a su post si el ajuste se "
+"enciende arriba. Para mostrar manualmente el rango del post en cualquier "
+"lugar de su post, use el código corto %1$s. Para más información, vea %2$s."
+
+#: author-post-ratings.php:377
+#, php-format
+msgid ""
+"Turn this on if you want to hide the post rating on archive pages, and your "
+"theme uses the %1$s quicktag for post excerpts instead of true excerpts."
+msgstr ""
+"Encienda esto si desea esconder el rango de post en las páginas de archivo, "
+"y su tema usa la etiqueta %1$s para extractos de post en vez de extractos "
+"verdaderos."

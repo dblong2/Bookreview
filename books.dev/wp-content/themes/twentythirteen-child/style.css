@@ -1,0 +1,130 @@
+/*
+ Theme Name:   Twenty Thirteen Child
+ Theme URI:    http://example.com/twenty-thirteen-child/
+ Description:  Twenty Thirteen Child Theme
+ Author:       David Long
+ Template:     twentythirteen
+ Version:      1.0.0
+ Text Domain:  twenty-thirteen-child
+*/
+
+.fp_title {
+	margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    font-weight: 3em;
+}
+/* Joke area */
+.widget-area {
+	position: relative;
+    left: 100px;
+    top: -320px;
+}
+
+#primary {
+width:60%;
+}
+
+#secondary {
+float:right;
+clear:none;
+width: 38%
+}
+.single .section.group,.single .comments-area {
+	padding: 5%;
+}
+/* archive page settings */
+.archive-header {
+	display:none;
+}
+.archive .section  {
+	margin-left: 1.0%;
+}
+
+.archive .archive-header {
+	width: 72.2%;
+	padding-left: 10%;
+}
+.archive. span_1_of_2{
+	padding-left: 8%;
+	display:none;
+}
+.archive .col.span_1_of_2 {
+	display: block;
+	float: left;
+	margin: 1% 0 1% 0%;
+	width: 18.2%;
+} 
+.archive .span_2_of_2, .archive .span_2_of_2 p .{
+	width: 66.1%;
+	padding-right: 0%;
+	display:none;
+}
+.span_archive {
+	width:100%;
+}
+.archive .section.group{
+width:200%;
+}
+
+
+/* front page settings */
+.template-front-page .site-content article {
+width:auto;
+}
+
+.span_2_of_2 p, .span_2_of_2S p{
+	padding:10px 0 0 0;
+}
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+.col:first-child { margin-left: 0; }
+
+
+/*  GROUPING  */
+.group:before,
+.group:after {
+	content:"";
+	display:table;
+}
+.group:after {
+	clear:both;
+}
+.group {
+    zoom:1; /* For IE 6/7 */
+}
+.span_2_of_2 {
+	width: 66.1%;
+	padding-right: 10%;
+}
+.span_1_of_2 {
+	width: 22.2%;
+	padding-left: 10%;
+}
+.span_1_of_2 .thumbnail {
+	float:right;
+}
+
+.span_2_of_2S {
+	width: 66.1%;
+}
+.span_1_of_2S {
+	width: 22.2%;
+}
+
+.span_2_of_2S .book-title {
+font-size:22px;
+}
+.span_2_of_2 .book-title {
+font-size:20px;
+}

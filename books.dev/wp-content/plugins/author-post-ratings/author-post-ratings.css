@@ -1,0 +1,22 @@
+div.author-post-rating {
+	display: block;
+	margin: 1em 0;
+}
+
+span.author-post-rating-label {
+	display: inline;
+}
+
+span.author-post-rating-stars {
+	display: inline;
+}
+
+span.author-post-rating-stars img {
+	border: 0;
+	display: inline;
+	height: auto;
+	margin: 0;
+	padding: 0;
+	max-width: none;
+	width: auto;
+}
